@@ -1,0 +1,11 @@
+/.idea
+/user.query.api/.mvn
+/user.core/.mvn
+/user.core/mvnw.cmd
+/user.core/HELP.md
+/user.core/mvnw
+/user.cmd.api/.mvn
+/user.cmd.api/mvnw.cmd
+/user.cmd.api/HELP.md
+/user.cmd.api/mvnw
+/.metadata
